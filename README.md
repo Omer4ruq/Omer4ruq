@@ -1,4 +1,4 @@
-![logo](https://github.com/Omer4ruq/Omer4ruq/blob/main/Black%20Full%20Photo%20Technology%20Facebook%20Cover.png)
+![logo](https://github.com/Omer4ruq/Omer4ruq/blob/main/Black%20Full%20Photo%20Technology%20Facebook%20Cover%20(2).png)
 ### Hi there 👋
 # 💫 About Me:
 <br>🌱 I’m currently learning- Node.js & Next.js.<br>👯 I’m looking - To collaborate on any MERN project projects.<br>🤔 I’m trying - to become a full-stack developer.<br>⚡ Fun fact - I am lazy but smart
