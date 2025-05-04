@@ -1,4 +1,4 @@
-![logo](https://github.com/Omer4ruq/Omer4ruq/blob/main/Black%20Full%20Photo%20Technology%20Facebook%20Cover%20(2).png)
+![Cool Animation](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 ### hello World! I am Omer Faruq 👋
 ## a passionate software developer from Bangladesh
 # 💫 About Me:
