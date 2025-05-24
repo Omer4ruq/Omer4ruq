@@ -1,8 +1,8 @@
 ![Cool Animation](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
-### hello World! I am Omer Faruq 👋
-## a passionate software developer from Bangladesh
+### Hello World! This is Omer Faruq 👋
+## Passionate Software Developer
 # 💫 About Me:
-<br>🌱 I’m currently learning- Node.js & Next.js.<br>👯 I’m looking - To collaborate on any MERN project projects.<br>🤔 I’m trying - to become a full-stack developer.<br>⚡ Fun fact - I am lazy but smart
+<br>🌱 Currently exploring: DevOps to streamline development and deployment workflows.<br>👯 Open to: Collaborating on innovative MERN or full-stack projects.<br>🤔 Goal: Evolving into a versatile full-stack developer with a DevOps edge..<br>⚡ Fun fact - I’m a lazy-but-smart coder who loves finding efficient solutions!
 
 
 ## 🌐 Socials:
